@@ -2,6 +2,7 @@
 /build
 /captures
 .externalNativeBuild
+.idea/
 
 ### Android ###
 # Built application files
@@ -98,4 +99,3 @@ lint/tmp/
 ### Android Patch ###
 gen-external-apklibs
 output.json
-
